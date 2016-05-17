@@ -1,1 +1,2 @@
  this is a new git file 
+ git is a soft ware
